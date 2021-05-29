@@ -77,7 +77,7 @@
                   <p class="mb-5">Data yang diambil berdasarkan hasil dari wawancara dengan ahli pakar tanaman tomat</p>
                 </div>
                 <div class="col-md-6 mb-5">
-                  <div class="card text-white"><img class="card-img" src="img/gallery/pakar1.jpg" alt="..." />
+                  <div class="card text-white"><img class="card-img" src="img/gallery/tomat.png" alt="..." />
                     <div class="card-img-overlay d-flex flex-column justify-content-center px-5 px-md-3 px-lg-5 bg-dark-gradient">
                       <h6 class="text-success pt-2 fs-1 fs-md-2 fs-lg-3 w-xxl-50">Petani</h6>
                       <hr class="text-white" style="height:0.12rem;width:5rem" />
@@ -110,7 +110,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="img/gallery/user-1.jpg" width="50" alt="" style="border-radius: 50%;" />
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="img/gallery/tomat.png" width="50" alt="" style="border-radius: 50%;" />
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Andrian Suhartanto</h5>
                               <p class="fw-normal text-black">20.22.2386</p>
@@ -122,7 +122,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="img/gallery/user-2.jpg" width="50" alt="" style="border-radius: 50%;"/>
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="img/gallery/tomat.png" width="50" alt="" style="border-radius: 50%;"/>
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Farah Nur Maulidia</h5>
                               <p class="fw-normal text-black">20.22.2390 </p>
@@ -134,7 +134,7 @@
                     <div class="col-md-4 mb-5 mb-md-0">
                       <div class="card h-100 shadow">
                         <div class="card-body my-3">
-                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="img/gallery/user-3.jpg" width="50" alt="" style="border-radius: 50%;"/>
+                          <div class="align-items-xl-center d-block d-xl-flex px-3"><img class="img-fluid me-3 me-md-2 me-lg-3" src="img/gallery/tomat.png" width="50" alt="" style="border-radius: 50%;"/>
                             <div class="flex-1 align-items-center pt-2">
                               <h5 class="mb-0 fw-bold text-success">Fawwaz Hasanu</h5>
                               <p class="fw-normal text-black">20.22.2392</p>
